@@ -1,4 +1,4 @@
-<h1 align="center">Ōhē, I'm Debraj Karmakar 👋</h1>
+<h1 align="center">Hello, am Jaideep 👋</h1>
 <h3 align="left">It's my pleasure to see you here
 
 Perfection-obsessed Web Developer, currently I am a Computer Science Engineering student. My interests range from technology to design. I am also interested in art, creativity, entrepreneurship, and travel.
@@ -56,10 +56,10 @@ Currently Web and Design enthusiast. </h3>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jaideep25&theme=radical">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaideep25&theme=radical" alt="Jaideep25" />
 </a>
-<a href="https://github.com/Jaideep25/this.weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaideep25&repo=this.weather&show_owner=true&theme=radical" alt="Jaideep25" />
+<a href="https://github.com/Jaideep25/SkyLark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaideep25&repo=SkyLark&show_owner=true&theme=radical" alt="Jaideep25" />
 </a>
-<a href="https://github.com/Jaideep25/COV-19-India">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaideep25&repo=COV-19-India&show_owner=true&theme=radical" alt="Jaideep25" />
+<a href="https://github.com/Jaideep25/Covid-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaideep25&repo=Covid-tracker&show_owner=true&theme=radical" alt="Jaideep25" />
 </a>
 
