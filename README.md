@@ -6,6 +6,8 @@ I'm Jaideep25, a passionate self-taught Frontend & Backend web developer from In
 - I'm learning Python language now!
 - Any queries or concerns please feel free to contact me [here](https://github.com/Jaideep25/Jaideep25/issues)
 
+![Visitor Count](https://profile-counter.glitch.me/{jaideep25}/count.svg)
+
 **Languages & Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
