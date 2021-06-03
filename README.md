@@ -2,9 +2,9 @@
 <h3 align="left">It's my pleasure to see you </h3>
 
 I'm Jaideep25, a passionate self-taught Frontend & Backend web developer from India.
-- I'm currently working on a VideoCall-Chat-App named Videolify!
+- I have made a video call app with the help of some people it's name is Videolify link : https://videolify-jaideep25.up.railway.app/ , soon it'll be open-source! Thanks!
 - I'm learning Python language now!
-- Any queries or concerns please feel free to contact me [here](https://github.com/Jaideep25/Jaideep25/issues)
+- Any queries or concerns please feel free to contact me [here](mailto:jaideepch@outlook.com)
 
 ![Visitor Count](https://profile-counter.glitch.me/{jaideep25}/count.svg)
 
