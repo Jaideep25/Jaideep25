@@ -18,5 +18,5 @@ I'm Jaideep25, a passionate self-taught Frontend & Backend web developer from In
 ![Jaideep25's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaideep25&layout=compact&theme=react&include_all_commits=true)
 
 ![Videolify](https://github-readme-stats.vercel.app/api/pin/?username=jaideep25&repo=Videolify&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
-![Covid19-Tracker for India](https://github-readme-stats.vercel.app/api/pin/?username=jaideep25&repo=Covid-Tracker&theme=react)
+![Covid19-Tracker for India](https://github-readme-stats.vercel.app/api/pin/?username=jaideep25&repo=Covid-Tracker&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
