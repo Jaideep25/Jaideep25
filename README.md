@@ -5,7 +5,7 @@ I'm Jaideep25, a passionate self-taught Frontend & Backend web developer.
 
 - I have made a video call app with a team link : https://videolify.up.railway.app/, do fork and star if you think it's useful!
 - I'm learning Python language now!
-- Any queries or concerns please feel free to contact me [here](mailto:jaideepch@outlook.com), or you can add me on discord : Jaideep25#2025 !!
+- Any queries or concerns please feel free to contact me [here](mailto:jaideepch@outlook.com), or you can add me on discord : Jaideep25#9048 !!
 
 ![Visitor Count](https://profile-counter.glitch.me/{jaideep25}/count.svg)
 
