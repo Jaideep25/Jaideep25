@@ -7,7 +7,7 @@ I'm Jaideep25, a passionate self-taught Frontend & Backend web developer.
 - I'm learning Python language now!
 - Any queries or concerns please feel free to contact me [here](mailto:jaideepch@outlook.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=jaideep25&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=jaideep25&style=plastic)
 
 **Languages & Tools**
 
