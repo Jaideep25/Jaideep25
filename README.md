@@ -3,7 +3,7 @@
 
 I'm Jaideep25, a passionate self-taught Frontend & Backend web developer.
 
-- I have made a video call app with a team link : https://videolify.up.railway.app/, do fork and star if you think it's useful!
+- I have made a video call app with a guy, link : https://videolify.up.railway.app/, do fork and star if you think it's useful!
 - I'm learning Python language now!
 - Any queries or concerns please feel free to contact me [here](mailto:jaideepch@outlook.com)
 
