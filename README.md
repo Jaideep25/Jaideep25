@@ -1,7 +1,7 @@
 ## Hello, I'm [Jaideep25](https://github.com/Jaideep25)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <h3 align="left">It's my pleasure to see you </h3>
 
-I'm Jaideep25, a passionate self-taught Frontend & Backend web developer.
+A passionate self-taught Frontend & Backend web developer.
 
 - I have made a video call app ~ https://videolify.up.railway.app/, do fork & star if you think it's useful!
 - I'm learning Python language now!
